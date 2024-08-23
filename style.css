@@ -1,0 +1,25 @@
+* {
+  background-color: black;
+  color: whitesmoke;
+}
+img {
+  height: 300px;
+  width: 490px;
+  border: 3px solid whitesmoke;
+  width: 100%;
+}
+p {
+  text-transform: uppercase;
+}
+#anji {
+  margin-left: 25%;
+  width: 50%;
+  margin-top: 50px;
+}
+h1 {
+  text-transform: uppercase;
+  font-family: "Libre Baskerville", serif;
+  font-weight: 400;
+  font-style: normal;
+  text-align: center;
+}
